@@ -15,8 +15,8 @@ from mpl_toolkits.mplot3d import Axes3D
 
 fig = pl.figure()
 ax = Axes3D(fig)
-X = np.arange(-5, 15, 1)
-Y = np.arange(-5, 15, 1)
+X = np.arange(-5, 10, 0.5)
+Y = np.arange(0, 15, 0.5)
 X, Y = np.meshgrid(X, Y)
 
 Z = (Y - 5.1/(4*np.pi**2)*X**2 + (5.0/np.pi)*X - 6)**2 + 10.0*(1 - 1.0/(8*np.pi))*np.cos(X) + 10
