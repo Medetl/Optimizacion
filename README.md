@@ -1,5 +1,5 @@
 # Optimizacion
-Ejercicios de algortimos de optimización
+Notas del curso de optimización en construcción.
 
 Empecemos con algunos códigos para graficar funcinciones de prueba clásicas:
 a) Branin
