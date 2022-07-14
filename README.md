@@ -1,5 +1,5 @@
 # Optimizacion
-Notas del curso de optimización. En construcción.
+Notas del curso de Optimización. En construcción.
 
 Empecemos con algunos códigos para graficar funcinciones de prueba clásicas:
 a) Branin
